@@ -1,0 +1,84 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (GLSLExperiment.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  nhom_7.cpp
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(64,46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(65,46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(123,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(128,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(129,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(190,18): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(190,39): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(325,65): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(357,33): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(358,37): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(358,24): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(358,12): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(371,32): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(372,46): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(372,28): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(372,11): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(379,32): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(380,46): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(380,28): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(380,11): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(389,22): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(392,64): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(396,70): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(396,46): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(404,22): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(404,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(430,33): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(443,65): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(449,55): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(452,60): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(456,43): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(481,19): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(481,32): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(481,46): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(484,27): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(484,37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(486,18): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(491,64): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(505,29): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(512,29): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(535,25): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(536,26): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(564,41): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(564,31): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(572,32): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(579,41): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(579,31): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(587,66): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(608,66): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(613,33): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(615,33): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(619,37): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(621,36): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(625,62): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(700,12): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(707,12): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(745,21): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(748,21): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(751,21): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(754,21): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(757,20): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(760,20): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(779,20): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(783,20): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(787,20): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(791,20): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(832,23): warning C4566: character represented by universal-character-name '\u00F4' cannot be represented in the current code page (932)
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(832,23): warning C4566: character represented by universal-character-name '\u1ECF' cannot be represented in the current code page (932)
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(832,23): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (932)
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(832,23): warning C4566: character represented by universal-character-name '\u1EE1' cannot be represented in the current code page (932)
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(832,23): warning C4566: character represented by universal-character-name '\u00E0' cannot be represented in the current code page (932)
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(832,23): warning C4566: character represented by universal-character-name '\u1EEB' cannot be represented in the current code page (932)
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(832,23): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (932)
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(832,23): warning C4566: character represented by universal-character-name '\u1EC1' cannot be represented in the current code page (932)
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(832,23): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (932)
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(832,23): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (932)
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(832,23): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (932)
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(832,23): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (932)
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(832,23): warning C4566: character represented by universal-character-name '\u1EB1' cannot be represented in the current code page (932)
+C:\Users\DoVietDong\Desktop\Nhom07-final1\GLSLExperiment\nhom_7.cpp(832,23): warning C4566: character represented by universal-character-name '\u00E1' cannot be represented in the current code page (932)
+  GLSLExperiment.vcxproj -> C:\Users\DoVietDong\Desktop\Nhom07-final1\Debug\GLSLExperiment_RobotArm.exe
